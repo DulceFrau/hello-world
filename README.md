@@ -16,3 +16,11 @@ me va a aperecer en cuadro de diálogo El valor de z es 3
 El signo + es "concatenar"
 
 En HTML uso las etiquetas par hacer cosas especiales. Empieza con las <> y para cerrar pones el mismo nombre con </ >
+Navigator: Navegador(cromado)
+
+Window: Tabs/Pestañas
+
+Document: Pagina
+
+<strong> Document Object Model </strong>: Forma que usa el navegador para organizar el Document
+ 
