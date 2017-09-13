@@ -23,4 +23,21 @@ Window: Tabs/Pestañas
 Document: Pagina
 
 <strong> Document Object Model </strong>: Forma que usa el navegador para organizar el Document
+
+<strong> Data Types </strong>
+ <strong> Strings </strong> — Any grouping of keyboard characters (letters, spaces, numbers, or symbols) surrounded by single quotes ('Hello') or double quotes ("World!"). In the example above, 'New York City' is a string.
+ <strong> Numbers </strong> — Any number, including numbers with decimals: 4, 1516, .002, 23.42. In the example above, 40.7 is a number.
+ <strong> Booleans </strong> — Either true or false, with no quotations. In the example above, true is a boolean.
+ <strong> Null </strong> — Can only be null. It represents the absence of value.
  
+Una "instancia" es un dato, una cosa individual en JS. Y cada instancia, tiene información adicional que podemos ver a través de las "property". Por ejemplo el string (texto) Hola, tiene property de 5 caracteres. Esa es información adicional de la instancia que el ordenador obtiene.
+Methods son cosas(?) que nos permiten obtener información extra de una instancia según lo que necesitemos: <strong> console.log('Hello'.toUpperCase()) </strong> Eso es un method, al finalizar se colocan paréntesis que, según la ocasión, a veces están vacíos y a veces tienen info dentro.
+Estos methods necesitan, por definición, una instancia para funcionar. Sin embargo, podemos no usar si utilizamos las librerías para llamar los methods.
+
+Four essential data types in JavaScript include strings, numbers, booleans, and null.
+Data is printed, or logged, to the console with console.log().
+Four built-in mathematical operators include +, -, *, and /.
+JavaScript associates certain properties with different data types.
+JavaScript has built-in methods for different data types.
+Libraries are collections of methods that can be called without an instance.
+You can write single-line comments with // and multi-line comments between /* and */.
